@@ -2,6 +2,7 @@
   "name": "devraizbar",
   "displayName": "DevRaiz Status Bar",
   "description": "Personalize you VS Code StatusBar with custom Settings.",
+  "icon":"img/ico.jpg",
   "version": "0.0.1",
   "publisher" : "DevRaiz",
   "author": {
@@ -12,10 +13,10 @@
     "vscode": "^1.79.0"
   },
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/aoticombr/devraizbar",
   "repository": {
     "type": "git",
-    "url":""
+    "url":"https://github.com/aoticombr/devraizbar.git"
   },
   "categories": [
     "Other"
